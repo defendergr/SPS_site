@@ -1,0 +1,36 @@
+body{
+	background-image:url("image.bmp");
+	background-color:#056690;
+}
+
+.main {
+	position:absolute;
+	top: 20%;
+	background-color:lightgray;
+	padding:15px;
+	border-radius:15px;
+	padding-left:50px;
+}
+
+.button:hover{
+	background-color:black;
+	color:white;
+}
+
+.button a,a:visited,a:active{
+	color:black;
+}
+
+.button{
+	display:inline-block;
+	text-decoration:none;
+	padding:12px;
+	text-align:center;
+	border-radius:50px;
+	background-color:#A9A9A9;
+	color:black;
+}
+
+.credits{
+	font-size:12px;
+}
